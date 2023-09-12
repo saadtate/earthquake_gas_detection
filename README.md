@@ -1,6 +1,6 @@
 # earthquake_gas_detection
 a script based on  DOI: 10.2478/jogs-2013-0024 
-Absolutely, I can help you with that! Here's a draft for a GitHub README.md for your script:
+
 
 ---
 
